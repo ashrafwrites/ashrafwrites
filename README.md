@@ -57,8 +57,8 @@ I write content that ranks *and* reads like a human wrote it — no robotic keyw
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrafwrites&show_icons=true&hide_border=true&bg_color=00000000&title_color=f7a81c&icon_color=16213e&text_color=000000" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ashrafwrites&hide_border=true&background=00000000&stroke=16213e&ring=f7a81c&fire=f7a81c&currStreakLabel=f7a81c&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=16213e" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrafwrites&show_icons=true&hide_border=true&bg_color=f7a81c&title_color=16213e&icon_color=16213e&text_color=000000" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ashrafwrites&hide_border=true&background=f7a81c&stroke=16213e&ring=16213e&fire=16213e&currStreakLabel=16213e&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=16213e" width="48%" />
 </div>
 
 <br/>
